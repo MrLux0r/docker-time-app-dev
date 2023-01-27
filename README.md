@@ -9,11 +9,15 @@ Backend is written using Node.js and Express
 Database is MySQL
 
 Запуск командой:
-	<docker-compose -f docker-compose.pub.yml up> скачает нужные 
-образы с DockerHub и запустит проект
+
+	docker-compose -f docker-compose.pub.yml up 
+
+Docker скачает нужные образы с DockerHub и запустит проект
 
 Мой DockerHub: https://hub.docker.com/u/lux0xr
 
 Запуск командой:
-	<docker-compose up> запустит проект используя данные которые 
-находятся в папке
+
+	docker-compose up 
+	
+Docker запустит проект используя данные которые находятся в папке
