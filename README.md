@@ -7,7 +7,7 @@ Database is MySQL
 
 Запуск командой:
 	<docker-compose -f docker-compose.pub.yml up> скачает нужные 
-образы с DockerHub и запустит проет
+образы с DockerHub и запустит проект
 
 Мой DockerHub: https://hub.docker.com/u/lux0xr
 
